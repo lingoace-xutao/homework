@@ -1,0 +1,4 @@
+<view>
+  <view>userName: {{userName}}</view>
+  <view>age: {{age}}</view>
+</view>
